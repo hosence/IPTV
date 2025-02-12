@@ -1024,6 +1024,7 @@ MOViE MOViE,https://frndlymsl.akamaized.net/hls/live/2006426/pixlmsl/pixlmsl/pla
 纬来电影台,http://211.75.171.121:8579/http/61.67.128.137:8081/hls/69/811/ch35.m3u8$订阅源
 纬来电影台,http://122.117.71.103:8554/http/61.222.53.250:8081/hls/69/811/ch35.m3u8$订阅源
 
+
 体育频道,#genre#
 广东体育,http://113.101.119.62:8090/hls/108/index.m3u8$订阅源
 广东体育,http://219.159.194.213:8181/tsfile/live/1001_1.m3u8$订阅源
