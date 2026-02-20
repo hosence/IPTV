@@ -1,0 +1,4 @@
+#EXTINF:-1 tvg-id="北京卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="地方卫视",北京卫视4K
+http://1.58.247.68:4001/udp/229.58.190.212:5000
+#EXTINF:-1 tvg-id="广东卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="地方卫视",广东卫视4K
+http://1.58.247.68:4001/udp/229.58.190.213:5000
